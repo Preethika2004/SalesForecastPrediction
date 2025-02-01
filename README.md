@@ -6,7 +6,7 @@ This project focuses on predicting sales using historical sales data. The datase
 ## Table of Contents
 - [Introduction](#Introduction)
 - [Dataset](#Dataset)
-- [Data Preprocessing & Feature Selelction](#Data-Exploration)
+- [Data Preprocessing & Feature Selelction](#Data-Preprocessing-&-Feature-Selelction)
 - [Model Training](#Model-Training)
 - [Results](#Results)
 
