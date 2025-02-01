@@ -18,6 +18,9 @@ The dataset used in this project is stored in a CSV file named `sales_data.csv`.
 - `holiday`: A binary indicator (0 or 1) indicating whether the date was a holiday.
 - `past_sales`: The sales amount from the previous day.
 - `previous_year_sales`: The sales amount from the same date in the previous year.
+
+The following features are derived using the features we have in the dataset.
+  
 - `season`: A categorical variable indicating the season (0: winter, 1: spring, 2: summer).
 - `day_of_week`: The day of the week (0: Monday, 6: Sunday).
 - `day`: The day of the month.
