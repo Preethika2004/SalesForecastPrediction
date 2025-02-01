@@ -53,8 +53,7 @@ The performance of the linear regression model is evaluated using the following 
 - **R-squared (R²):** Indicates the proportion of variance in the dependent variable that is predictable from the independent variables. An R² value closer to 1 indicates a better fit.
 
 This is how our model is perrforming:
-- `**Mean Absolute Error (MAE):**` 9.2200
-- `**Mean Squared Error (MSE):**` 134.3288
-- `**R-squared (R²):**` 0.5633
-
-- `**Accuracy of the Model:**` 93.48%
+- `Mean Absolute Error (MAE):` 9.2200
+- `Mean Squared Error (MSE):` 134.3288
+- `R-squared (R²):` 0.5633
+- **`Accuracy of the Model:`** 93.48%
